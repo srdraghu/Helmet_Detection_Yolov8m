@@ -1,0 +1,41 @@
+Folder PATH listing
+Volume serial number is A0A8-358F
+C:.
+|   data.yaml
+|   train.ipynb
+|   yolov8m.pt
+|   yolov8n.pt
+|   
+C:.
+├───input
+│   └───hard-hat-detection
+│       └───annotations
+├───runs
+│   └───detect
+│       ├───predict
+│       │   └───labels
+│       ├───predict2
+│       ├───predict3
+│       ├───predict4
+│       │   └───labels
+│       ├───predict5
+│       ├───train
+│       │   └───weights
+│       ├───train2
+│       │   └───weights
+│       ├───train3
+│       │   └───weights
+│       ├───val
+│       └───val2
+└───working
+    └───Dataset
+        ├───images
+        │   ├───labels
+        │   │   └───train
+        │   ├───test
+        │   ├───train
+        │   └───val
+        └───labels
+            ├───test
+            ├───train
+            └───val

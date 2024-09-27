@@ -1,0 +1,8 @@
+names:
+- helmet
+- no helmet
+- person
+nc: 3
+test: C:\Users\Student\Desktop\Helmet detection\working\Dataset\images\test
+train: C:\Users\Student\Desktop\Helmet detection\working\Dataset\images\train
+val: C:\Users\Student\Desktop\Helmet detection\working\Dataset\images\val
